@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirDey2002 but you can call me Abir
-- 👀 I’m interested in ... Analytical research, Website development, Designing and a little bit of sports
+- 👀 I’m interested in ... Machine Learning, Analytical research, Website development, Designing and a little bit of sports
 - 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... Any projects that belong to the domain mentioned above
 - 📫 How to reach me ... @abirdey43@gmail.com / @abir.dey2020@vitbhopal.ac.in 
