@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [flexibble](https://github.com/AbirDey2002/flexibble)
+- 🔭 I’m currently working on [greenut studio](https://github.com/AbirDey2002/greenut_grafbase)
 
 - 🌱 I’m currently learning **Next.js and C++**
 
